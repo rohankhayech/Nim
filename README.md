@@ -1,5 +1,6 @@
 # Game of Nim
 A console-based Nim client written in Pascal featuring multiplayer and computer opponent.
+Written for an assignment in 2018.
 
 **Author:** Rohan Khayech
 
