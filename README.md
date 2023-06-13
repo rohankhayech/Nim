@@ -49,14 +49,7 @@ After making your move, you will be told if your move was safe or not.
 A safe move is one from which you can securely win the game by continuing to make safe moves until you can take the last match. If your opponent makes a safe move on the previous turn, any move you make will be a bad move, and vice-versa.
 
 ##### Playing against the computer
-When playing against the computer, you get the first move, and you will always be able to win the game if you play correctly. Make safe moves, and the computer will not be able to beat you. However, if you make a bad move, the computer does not play easy on you, and will continue to make safe moves until it wins. If the computer knows it will win, it will present you with this message:
-
-``` 
-The computer has outsmarted you! You cannot win this game.
-Skip to the end of the game? (yes/no)
-```
- 
-You can type `yes` and press enter to resign from the game and let the computer win. However, if you think you can prove the computer wrong, you may continue the game to your demise by typing `no` and press enter.
+When playing against the computer, you get the first move, and you will always be able to win the game if you play correctly. Make safe moves, and the computer will not be able to beat you. However, if you make a bad move, the computer does not play easy on you, and will continue to make safe moves until it wins. If the computer knows it will win, it will allow you to skip to the end of the game.
 
 ##### Winning the game
 The last person to take a match wins the game. When this occurs the winner will be shown on the screen and you can continue back to the main menu.
