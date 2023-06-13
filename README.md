@@ -37,9 +37,11 @@ Upon starting a game, you will be asked to enter the number of piles you want to
 
 ##### On your turn
 
-[]()
+![Nim Game Interface](https://github.com/rohankhayech/Nim/assets/49182055/70a02a13-1076-4630-95b6-83d6411303b7)
 
-At the start of a turn you will be presented with the above interface. At the top the current player whose turn it is displayed. Below that there is a visual representation of the different piles of matchsticks in the game. This tells you how many matches are available in each pile. You will first be asked to choose a pile to take matches from. You must enter a number corresponding to one of the non-empty piles. Then, you will be asked how many matches you want to take from that pile. You can enter take any number of matches from one pile on your turn, but you cannot take none, or more than are available in the pile. Lastly you will be asked to confirm your move. If you are happy with your move, type `yes` and press enter. If you want to cancel and make another move type `no` and press enter, and you will be able to re-enter your move.
+At the start of a turn you will be presented with the above interface. At the top the current player whose turn it is displayed. Below that there is a visual representation of the different piles of matchsticks in the game. This tells you how many matches are available in each pile. 
+
+You will first be asked to choose a pile to take matches from. You must enter a number corresponding to one of the non-empty piles. Then, you will be asked how many matches you want to take from that pile. You can take any number of matches from one pile on your turn, but you cannot take none, or more than are available in the pile. Lastly you will be asked to confirm your move.
 
 ##### Checking if your move was safe
 After making your move, you will be told if your move was safe or not.
