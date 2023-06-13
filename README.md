@@ -21,7 +21,7 @@ In the case that the game was already safe, therefore the computer cannot make a
 ## Usage
 
 ### Running the Game
-The game can be run from source using the Lazarus IDE or via running the `.exe` file from the release page on Windows.
+The game can be run from source using the Lazarus IDE or via running the `.exe` file from the [release page](https://github.com/rohankhayech/Nim/releases/tag/v1.0) on Windows.
 
 ### How to Play
 
@@ -39,7 +39,7 @@ Upon starting a game, you will be asked to enter the number of piles you want to
 
 ##### On your turn
 
-![Nim Game Interface](https://github.com/rohankhayech/Nim/assets/49182055/70a02a13-1076-4630-95b6-83d6411303b7)
+![image](https://github.com/rohankhayech/Nim/assets/49182055/b7336012-efab-4e94-b22f-4d637aaf6e20)
 
 At the start of a turn you will be presented with the above interface. At the top the current player whose turn it is displayed. Below that there is a visual representation of the different piles of matchsticks in the game. This tells you how many matches are available in each pile. 
 
